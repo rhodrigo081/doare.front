@@ -100,8 +100,8 @@ const Login: React.FC = () => {
           <div
             className="absolute inset-0"
             style={{
-              background: "linear-gradient(to bottom right, #034E2B, #028347)",
-              opacity: 0.95,
+              background: "linear-gradient(to bottom right, #0310FF, #01AAFB)",
+              opacity: 0.7,
             }}
           ></div>
 
