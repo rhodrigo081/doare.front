@@ -5,7 +5,7 @@ import { zodResolver } from "@hookform/resolvers/zod";
 import { useNavigate } from "react-router-dom";
 
 // Imagens
-import logo from "../assets/erasebg-transformed (4) 2 (1).svg";
+import logo from "@/assets/22ae72c2-d56e-4002-9acf-fe41d79a1f45-removebg-preview.png";
 import logo2 from "../assets/NAME-1.svg";
 import logo3_mobile from "../assets/NAME.svg";
 import handsBackground from "../assets/maos-dadas-umas-as-outras-para-apoio 1 (1).svg";
