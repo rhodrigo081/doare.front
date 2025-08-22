@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-import logo_unica from "../assets/NAME.svg";
+import logo_unica from "@/assets/22ae72c2-d56e-4002-9acf-fe41d79a1f45-removebg-preview.png";
 
 import { Copy, CopyCheck } from "lucide-react";
 
@@ -59,12 +59,12 @@ const PixPayment: React.FC = () => {
         <img
           src={logo_unica}
           alt="Logo Doa.re"
-          className="mx-auto w-72 mt-2 mb-2"
+          className="mx-auto w-25 mt-2 mb-2"
         />
 
         {/* Faixa verde */}
         <div className="w-full mb-2">
-          <div className="h-[9px] w-full bg-[#007268]" />
+          <div className="h-[9px] w-full bg-[#0310FF]" />
         </div>
 
         {/* Código PIX */}

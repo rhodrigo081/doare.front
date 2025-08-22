@@ -4,7 +4,7 @@ import { z } from "zod";
 import { zodResolver } from "@hookform/resolvers/zod";
 
 // Imagens
-import logo_unica from "../assets/NAME.svg";
+import logo_unica from "@/assets/22ae72c2-d56e-4002-9acf-fe41d79a1f45-removebg-preview.png";
 
 // shadcn/ui
 import { Input } from "@/components/ui/input";
@@ -153,12 +153,12 @@ const PixPage: React.FC = () => {
         <img
           src={logo_unica}
           alt="Logo Doa.re"
-          className="mx-auto w-72 mt-4 mb-3"
+          className="mx-auto w-25 mt-4 mb-3"
         />
 
         {/* Faixa verde */}
         <div className="-mx-6 mt-[30px] mb-6">
-          <div className="h-[9px] w-full bg-[#007268]" />
+          <div className="h-[9px] w-full bg-[#0310FF]" />
         </div>
 
         {/* Título */}

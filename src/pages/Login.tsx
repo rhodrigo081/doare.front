@@ -134,9 +134,9 @@ const Login: React.FC = () => {
           <img
             src={logo3_mobile}
             alt="Logo Mobile"
-            className="w-72 mx-auto mb-0 mt-[-60px] md:hidden"
+            className="w-25 mx-auto mb-0 mt-[-60px] md:hidden"
           />
-          <div className="w-auto h-2.5 bg-[#007268] mb-6 -mt-[-30px] mx-[-24px] md:hidden"></div>
+          <div className="w-auto h-2.5 bg-[#0310FF] mb-6 -mt-[-30px] mx-[-24px] md:hidden"></div>
 
           <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-center">
             Login
